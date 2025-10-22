@@ -8,6 +8,9 @@
     "test": "npx jest --coverage",
     "tsc": "tsc"
   },
+  "harmony": {
+    "alias": "react-native-status-bar-height"
+  },
   "publishConfig": {
     "registry": "https://registry.npmjs.org/",
     "access": "public"
@@ -24,7 +27,7 @@
   "bugs": {
     "url": "https://github.com/react-native-oh-library/react-native-status-bar-height/issues"
   },
-  "homepage": "https://github.com/react-native-oh-library/react-native-status-bar-height#readme",
+  "homepage": "https://github.com/react-native-oh-library/react-native-status-bar-height/tree/br_rnoh0.77#readme",
   "devDependencies": {
     "@babel/preset-typescript": "^7.12.7",
     "@types/jest": "^26.0.19",
